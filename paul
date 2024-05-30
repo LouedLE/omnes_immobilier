@@ -1,0 +1,43 @@
+<!DOCTYPE html>  
+<html>
+<head>  
+    <title>Home - Prime Properties</title>  
+    <meta charset="utf-8"/>  
+    <link href="prime.css" rel="stylesheet" type="text/css" />  
+    <link rel="icon" type="image/ico" href="favicon.ico">
+<style>
+    #nav div {
+      display: inline-block;
+    }
+  </style>
+</head>  
+<body>  
+    <h1 class="logo"> 
+        <img src="primelogo.gif" alt="Prime Properties Logo" height="90" width="400"/>
+    </h1>  
+
+    <div id="nav">  
+        <div id="homeNav"><a href="index.html"><img src="primehomenav.gif" alt="Home" /></a></div>
+        <div id="listingsNav"><a href="listings.html"><img src="primelistingsnav.gif" alt="Listings" /></a></div>
+        <div id="financingNav"><a href="financing.html"><img src="primefinancingnav.gif" alt="Financing" /></a></div>
+        <div id="contactNav"><a href="contact.html"><img src="primecontactnav.gif" alt="Contact" /></a></div>
+    </div>  
+
+    <p>Le Prime Properties est prêt à commercialiser et vendre votre propriété. <br> 
+    Omnes immobilier. <br>  
+    Nous pouvons également vous aider à trouver la propriété qui correspond à vos besoins: </p>  
+    <ul>  
+        <li>emplacement</li>  
+        <li>prix</li>  
+        <li>caractéristiques</li>  
+    </ul>  
+    <p class="contact">Prime Properties <br>  
+        67 avenue Marceau<br>  
+        75015 Paris<br> <br>  
+        (+33) 01 02 03 04 05 06  
+    </p>  
+    <div id="footer">Copyright &copy; 2024 Prime Properties<br />  
+        <a href="mailto:prime.properties@gmail.com">prime.properties@gmail.com </a>  
+    </div>  
+</body>  
+</html>
