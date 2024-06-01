@@ -1,0 +1,178 @@
+<agents>
+    <agent id="1">
+        <prenom>Djamel</prenom>
+        <nom>Zenakhra</nom>
+        <age>32</age>
+        <email>djamel.zenakhra@gmail.com</email>
+        <coordonnees>10 rue Sextius Michel, 75015, Paris</coordonnees>
+        <formations>
+            <formation>
+                <titre>Licence en immobilier</titre>
+                <annee>2005</annee>
+                <etablissement>Université de Paris</etablissement>
+            </formation>
+        </formations>
+        <experiences>
+            <experience>
+                <poste>Agent immobilier</poste>
+                <annees>2006-2024</annees>
+                <entreprise>Omnes immobilier</entreprise>
+                <description>Expert en immobilier commercial et en immobilier résidentiel</description>
+            </experience>
+        </experiences>
+    </agent>
+    <agent id="2">
+        <prenom>Patricia</prenom>
+        <nom>Kester</nom>
+        <age>45</age>
+        <email>patricia.kester@gmail.com</email>
+        <coordonnees>10 rue Sextius Michel, 75015, Paris</coordonnees>
+        <formations>
+            <formation>
+                <titre>Master en immobilier</titre>
+                <annee>1990</annee>
+                <etablissement>Université de Mulhouse</etablissement>
+            </formation>
+        </formations>
+        <experiences>
+            <experience>
+                <poste>Agent immobilier</poste>
+                <annees>1991-2024</annees>
+                <entreprise>Omnes Immobilier</entreprise>
+                <description>Expert en immobilier commercial, immobilier résidentiel et d'appartement à louer</description>
+            </experience>
+        </experiences>
+    </agent>
+    <agent id="3">
+        <prenom>Mohammed</prenom>
+        <nom>Louaked</nom>
+        <age>52</age>
+        <email>mohammed.louaked@gmail.com</email>
+        <coordonnees>10 rue Sextius Michel, 75015, Paris</coordonnees>
+        <formations>
+            <formation>
+                <titre>Ecole de commerce</titre>
+                <annee>1980</annee>
+                <etablissement>Université de Nanterre</etablissement>
+            </formation>
+        </formations>
+        <experiences>
+            <experience>
+                <poste>Agent immobilier</poste>
+                <annees>1981-2024</annees>
+                <entreprise>Omnes Immobilier</entreprise>
+                <description>Expert en Terrain, appartement à louer et immobilier commercial</description>
+            </experience>
+        </experiences>
+    </agent>
+    <agent id="4">
+        <prenom>Louis</prenom>
+        <nom>Mahl</nom>
+        <age>25</age>
+        <email>louis.mahl@gmail.com</email>
+        <coordonnees>10 rue Sextius Michel, 75015, Paris</coordonnees>
+        <formations>
+            <formation>
+                <titre>master en construction civile</titre>
+                <annee>2000</annee>
+                <etablissement>ECE Paris</etablissement>
+            </formation>
+        </formations>
+        <experiences>
+            <experience>
+                <poste>Agent immobilier</poste>
+                <annees>2001-2024</annees>
+                <entreprise>Omnes Immobilier</entreprise>
+                <description>Expert en Terrain et immobilier résidentiel</description>
+            </experience>
+        </experiences>
+    </agent>
+    <agent id="5">
+        <prenom>Debra</prenom>
+        <nom>SouthWest</nom>
+        <age>31</age>
+        <email>debra.southwest@gmail.com</email>
+        <coordonnees>10 rue Sextius Michel, 75015, Paris</coordonnees>
+        <formations>
+            <formation>
+                <titre>master en anglais</titre>
+                <annee>1995</annee>
+                <etablissement>university of texas</etablissement>
+            </formation>
+        </formations>
+        <experiences>
+            <experience>
+                <poste>Agent immobilier</poste>
+                <annees>2006-2024</annees>
+                <entreprise>Omnes Immobilier</entreprise>
+                <description>Expert en Terrain, immobilier commercial et appartement à louer</description>
+            </experience>
+        </experiences>
+    </agent>
+    <agent id="6">
+        <prenom>Maxime</prenom>
+        <nom>Schneider</nom>
+        <age>38</age>
+        <email>maxime.schneider@gmail.com</email>
+        <coordonnees>10 rue Sextius Michel, 75015, Paris</coordonnees>
+        <formations>
+            <formation>
+                <titre>master en electronique immobilier</titre>
+                <annee>1990</annee>
+                <etablissement>Centrale Paris</etablissement>
+            </formation>
+        </formations>
+        <experiences>
+            <experience>
+                <poste>Agent immobilier</poste>
+                <annees>1991-2024</annees>
+                <entreprise>Omnes Immobilier</entreprise>
+                <description>Expert en immobilier commercial, appartement à louer et immobilier résidentiel</description>
+            </experience>
+        </experiences>
+    </agent>
+    <agent id="7">
+        <prenom>Waleed</prenom>
+        <nom>Mouhali</nom>
+        <age>32</age>
+        <email>waleed.mouhali@gmail.com</email>
+        <coordonnees>10 rue Sextius Michel, 75015, Paris</coordonnees>
+        <formations>
+            <formation>
+                <titre>master en electromagnétisme résidentiel</titre>
+                <annee>1996</annee>
+                <etablissement>Polytechnique</etablissement>
+            </formation>
+        </formations>
+        <experiences>
+            <experience>
+                <poste>Agent immobilier</poste>
+                <annees>1997-2024</annees>
+                <entreprise>Omnes Immobilier</entreprise>
+                <description>Expert en terrain et immobilier résidentiel</description>
+            </experience>
+        </experiences>
+    </agent>
+    <agent id="8">
+        <prenom>Laurent</prenom>
+        <nom>Delisle</nom>
+        <age>36</age>
+        <email>laurent.delisle@gmail.com</email>
+        <coordonnees>10 rue Sextius Michel, 75015, Paris</coordonnees>
+        <formations>
+            <formation>
+                <titre>master en mathématiques immobilier</titre>
+                <annee>1991</annee>
+                <etablissement>Polytechnique</etablissement>
+            </formation>
+        </formations>
+        <experiences>
+            <experience>
+                <poste>Agent immobilier</poste>
+                <annees>1992-2024</annees>
+                <entreprise>Omnes Immobilier</entreprise>
+                <description>Expert en terrain et appartement à louer</description>
+            </experience>
+        </experiences>
+    </agent>
+</agents>
