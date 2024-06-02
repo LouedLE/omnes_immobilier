@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrousel France</title> <!-- Titre de l'onglet -->
+    <link rel="stylesheet" href="styles.css"><!-- Lien vers le css -->
+</head>
+<body>
+    <h1>La belle France</h1> <!-- Titre du site -->
+    <div id="carrousel">
+        <div class="slides">
+            <img src="france1.jpg" alt="France 1"> <!-- Lien vers chaque image -->
+            <img src="france2.jpg" alt="France 2">
+            <img src="france3.jpg" alt="France 3">
+            <img src="france4.jpg" alt="France 4">
+            <img src="france5.jpg" alt="France 5">
+            <img src="france6.jpg" alt="France 6">
+            <img src="france7.jpg" alt="France 7">
+        </div>
+    </div>
+
+    <div class="controls">
+
+        <div class="thumbnails"></div> <!-- On place les miniature -->
+        <button class="prev">Précédent</button><button class="next">Suivant</button><!-- On place les bontons precedent et suivant -->
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="Script.js"></script> <!-- Lien vers le JQuery -->
+</body>
+</html>
