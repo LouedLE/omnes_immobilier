@@ -1,0 +1,41 @@
+$(document).ready(function(){
+    var $slides = $('.slides img');
+    var $thumbnails = $('.thumbnails');
+    var indexImg = $slides.length - 1;
+    var i = 0;
+    var interval;
+
+    function initCarousel() {
+        createThumbnails();
+        addControls();
+        startInterval();
+    }
+
+    function createThumbnails() {
+        $slides.slice(0, 7).each(function(index) {
+            var $thumbnail = $('<div class="thumbnail" data-slide="' + index + '"><img src="' + $(this).attr('src') + '"></div>');
+            $thumbnails.append($thumbnail);
+            $thumbnail.click(function() {
+                clearInterval(interval);
+                i = $(this).data('slide');
+                showSlide();
+                startInterval();
+            });
+        });
+        updateThumbnails();
+    }
+
+    function addControls() {
+        $('.prev').click(prevSlide);
+        $('.next').click(nextSlide);
+    }
+
+    function prevSlide() {
+        clearInterval(interval);
+        i = (i === 0) ? indexImg : i - 1;
+        showSlide();
+        startInterval();
+    }
+
+});
+
